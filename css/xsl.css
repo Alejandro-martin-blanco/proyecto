@@ -1,0 +1,9 @@
+h1 { font: bold 25px arial; text-align: center; padding: 10px; }
+.imagen { background: #e1f6ff ;border: 5px double maroon; 
+             margin: 10px; padding: 5px; }
+.imagen h3 { font: bold 17px arial; margin: 0px; padding: 5px; }
+.imagen li { list-style-type: square; font: normal 14px arial;
+                margin-left: 0px; }
+.imagen:hover {
+	 background-color: #005f5f;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="comerciales.xsl"?>
+<galeria>
+
+<imagen numero="trannsit_connect">
+  <dibujo ruta="../imagenes/comerciales/trannsit_connect.jpg"/>
+  <nombre>Transit connect</nombre>
+  <precio>desde: 6.500€</precio>
+</imagen>
+
+<imagen numero="trannsit_custom">
+  <dibujo ruta="../imagenes/comerciales/trannsit_custom.jpg"/>
+  <nombre>Transit custom</nombre>
+  <precio>desde: 13.350€</precio>
+</imagen>
+
+<imagen numero="transit_chasis">
+  <dibujo ruta="../imagenes/comerciales/transit_chasis.jpg"/>
+  <nombre>Transit chasis</nombre>
+  <precio>desde: 15.000€</precio>
+  
+</imagen>
+
+
+
+
+
+
+</galeria>

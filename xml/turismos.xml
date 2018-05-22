@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="turismo.xsl"?>
+<galeria>
+
+<imagen numero="Edge">
+  <dibujo ruta="../imagenes/turismos/edge.jpg"/>
+  <nombre>edge</nombre>
+  <precio>desde: 36.300€</precio>
+</imagen>
+
+<imagen numero="Fiesta">
+  <dibujo ruta="../imagenes/turismos/fiesta.jpg"/>
+  <nombre>Fiesta</nombre>
+  <precio>desde: 9.750€</precio>
+</imagen>
+
+<imagen numero="Focus">
+  <dibujo ruta="../imagenes/turismos/focus.jpg"/>
+  <nombre>Focus</nombre>
+  <precio>desde: 13.100€</precio>
+  
+</imagen>
+
+<imagen numero="Ka">
+  <dibujo ruta="../imagenes/turismos/ka.jpg"/>
+  <nombre>Ka</nombre>
+  <precio>desde: 7.250€</precio>
+</imagen>
+
+<imagen numero="Kuga">
+  <dibujo ruta="../imagenes/turismos/kuga.jpg"/>
+  <nombre>Kuga</nombre>
+  <precio>desde: 17.850€</precio>
+</imagen>
+
+<imagen numero="Mondeo">
+  <dibujo ruta="../imagenes/turismos/mondeo.jpg"/>
+  <nombre>Mondeo</nombre>
+  <precio>desde: 20.000€</precio>
+</imagen>
+
+
+</galeria>

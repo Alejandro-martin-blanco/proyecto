@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="alta.xsl"?>
+<galeria>
+
+<imagen numero="focus rs">
+  <dibujo ruta="../imagenes/alta/focus_rs.jpg"/>
+  <nombre>Focus RS</nombre>
+  <precio>desde: 42.300€</precio>
+</imagen>
+
+<imagen numero="mustang">
+  <dibujo ruta="../imagenes/alta/mustang.jpg"/>
+  <nombre>Mustang</nombre>
+  <precio>desde: 40.750€</precio>
+</imagen>
+
+<imagen numero="GT">
+  <dibujo ruta="../imagenes/alta/gt.jpg"/>
+  <nombre>GT</nombre>
+  <precio>desde: 350.100€</precio>
+  
+</imagen>
+
+<imagen numero="Ranger">
+  <dibujo ruta="../imagenes/alta/ranger.jpg"/>
+  <nombre>Ranger</nombre>
+  <precio>desde: 30.250€</precio>
+</imagen>
+
+</galeria>
